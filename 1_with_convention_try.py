@@ -9,6 +9,7 @@ e.g. EmployeeInfo, Student
 Package : Use a short, lowercase word or words. Do not separate words with underscores.
 e.g. reporting, analytics
 '''
+# this code needs to be fixed, accommodated requested change
 class MyClass:
     def __init__(self, a, b):
         self.a = a
