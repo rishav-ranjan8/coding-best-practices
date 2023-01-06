@@ -11,6 +11,7 @@ e.g. reporting, analytics
 '''
 # this code needs to be fixed, accommodated requested change
 # new comment added
+#merge conflict testing
 class MyClass:
     def __init__(self, a, b):
         self.a = a
