@@ -10,6 +10,7 @@ Package : Use a short, lowercase word or words. Do not separate words with under
 e.g. reporting, analytics
 '''
 # this code needs to be fixed, accommodated requested change
+# new comment added
 class MyClass:
     def __init__(self, a, b):
         self.a = a
